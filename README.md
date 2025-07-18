@@ -7,3 +7,5 @@
 3. The system ensures that the Action Potential ( AP ) data captured by each feature remains consistent regardless of the sampling rate by dynamically calculating dilation rates and receptive fields
 
 4. The model is designed to be hardware adaptive, with its sampling rate set as variable, enabling seamless adaptation to different setups
+
+Google Drive Link for Resources :- https://drive.google.com/drive/folders/1LErvzXufKl4FkV8KDJyog_BKixSNDOlu?usp=drive_link
