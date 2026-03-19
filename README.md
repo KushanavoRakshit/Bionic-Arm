@@ -27,18 +27,20 @@ A prosthetic arm control system powered by **EMG (Electromyography) signals**, c
 ---
 
 ## 🏗️ Architecture
+
+```
 EMG Sensors (multi-channel)
-↓
+         ↓
 Signal Preprocessing & Feature Extraction
-↓
+         ↓
 Dynamically Designed CNN
-↓
+         ↓
 Multi-Layer Perceptron (MLP)
-↓
+         ↓
 Servo Motor Angle Prediction
-↓
+         ↓
 Prosthetic Arm Actuation
----
+```
 
 ## 📂 Repository Structure
 
@@ -52,17 +54,17 @@ Bionic-Arm/
 └── README.md
 ---
 
-## 🔬 Key Technical Highlights
+## 📂 Repository Structure
 
-| Feature | Detail |
-|---|---|
-| Input | Multi-channel EMG signals |
-| Model | CNN + MLP hybrid |
-| Output | Servo motor angles |
-| Adaptability | Hardware-agnostic via dynamic dilation rates |
-| AP Consistency | Maintained across variable sampling rates |
-
----
+```
+Bionic-Arm/
+├── BIONIC-ARM.ipynb
+├── 3d printing notes by Rakshit.pdf
+├── EMG + CNN notes by KC_compressed.pdf
+├── NIT Rourkela PPT by KC.pdf
+├── NIT Rourkela PPT by KC.pptx
+└── README.md
+```
 
 ## 🛠️ Tech Stack
 
