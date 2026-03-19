@@ -41,6 +41,8 @@ Prosthetic Arm Actuation
 ---
 
 ## 📂 Repository Structure
+
+---
 Bionic-Arm/
 ├── BIONIC-ARM.ipynb
 ├── 3d printing notes by Rakshit.pdf
