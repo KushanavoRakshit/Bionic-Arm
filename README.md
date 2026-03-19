@@ -44,18 +44,6 @@ Prosthetic Arm Actuation
 
 ## 📂 Repository Structure
 
----
-Bionic-Arm/
-├── BIONIC-ARM.ipynb
-├── 3d printing notes by Rakshit.pdf
-├── EMG + CNN notes by KC_compressed.pdf
-├── NIT Rourkela PPT by KC.pdf
-├── NIT Rourkela PPT by KC.pptx
-└── README.md
----
-
-## 📂 Repository Structure
-
 ```
 Bionic-Arm/
 ├── BIONIC-ARM.ipynb
